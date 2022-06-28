@@ -11,9 +11,13 @@
 
 4.  # SERVER .ENV (project Server tạo 1 file .env thêm các thuộc tính dưới)
     PORT = 5000
+    
     NODE_ENV = development
+    
     JWT_SECRET = shoeshop123456
+    
     PAYPAL_CLIENT_ID = ARkRYU9dwrLkT14GpoOnctsF-tud0kt7DiR_uWvOHIbKZoXKyQ4C2h8mYwpPQpiOTPJgd6oN2f37dXVK
+    
     MONGO_URL = mongodb+srv://admin:admin123456@shoeshop.abkhg.mongodb.net/shoeDatabase?retryWrites=true&w=majority
     
     npm install => cài đặt các package/module
